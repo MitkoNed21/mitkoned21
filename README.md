@@ -2,7 +2,7 @@
 Hello, I'm Mitko Nedyalkov, student in year 4 of my Bachelor's Degree in Software Engineering. I have been working as a PHP Developer for the past 4 years and really love writing code. Some of my other interests include livestreaming, photography, and I enjoy talking to people because I believe every story is incredible and deserves to be heard.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mitko-nedyalkov) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mitko-nedyalkov) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mitkoned21@gmail.com)
 
 
 # 💻 Tech Stack:
